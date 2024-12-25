@@ -3,7 +3,7 @@
         {
             "id": 1,
             "network": "Facebook",
-            "user": "nathanf",
+            "user": "@nathanf",
             "audienceType": "followers",
             "audience": 1987,
             "today": 12,
@@ -11,8 +11,8 @@
         },
         {
             "id": 2,
-            "network": "X",
-            "user": "nathanf",
+            "network": "Twitter",
+            "user": "@nathanf",
             "audienceType": "followers",
             "audience": 1044,
             "today": 99,
@@ -21,7 +21,7 @@
         {
             "id": 3,
             "network": "Instagram",
-            "user": "nathanf",
+            "user": "@nathanf",
             "audienceType": "followers",
             "audience": "11K",
             "today": 1099,
@@ -30,7 +30,7 @@
         {
             "id": 4,
             "network": "Youtube",
-            "user": "nathanf",
+            "user": "@nathanf",
             "audienceType": "subscribers",
             "audience": 8239,
             "today": 144,
