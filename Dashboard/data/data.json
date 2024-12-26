@@ -23,13 +23,13 @@
             "network": "Instagram",
             "user": "@nathanf",
             "audienceType": "followers",
-            "audience": "11K",
+            "audience": "11000",
             "today": 1099,
             "isUp": true
         },
         {
             "id": 4,
-            "network": "Youtube",
+            "network": "YouTube",
             "user": "@nathanf",
             "audienceType": "subscribers",
             "audience": 8239,

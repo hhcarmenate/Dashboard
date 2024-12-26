@@ -14,7 +14,7 @@ const Header = () => {
 
   
   return (
-    <header className="bg-Very-Pale-Blue dark:bg-Very-Dark-Blue h-[235px] rounded-b-[20px] pt-8 px-6">
+    <header className="w-screen bg-Very-Pale-Blue dark:bg-Very-Dark-Blue-Top-BG-Pattern h-[235px] rounded-b-[20px] pt-8 px-6 ">
       <h1 className="text-Very-Dark-Blue text-2xl font-bold mb-1 dark:text-Very-Pale-Blue">
         Social Media Dashboard
       </h1>
